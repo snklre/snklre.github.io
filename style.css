@@ -1,0 +1,19 @@
+h1 {
+  color: green;
+}
+
+h2 {
+  color: blue;
+}
+
+body {
+  background-color: #333;
+}
+
+.intro-section {
+  height: 300px;
+  width: fit-content;
+  padding: 40px;
+  margin: 10vw;
+  background-color: red;
+}
