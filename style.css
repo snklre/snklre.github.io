@@ -1,5 +1,5 @@
 h1 {
-  color: green;
+  color: rgb(135, 155, 173);
 }
 
 h2 {
@@ -16,5 +16,5 @@ body {
   width: fit-content;
   padding: 40px;
   margin: 10vw;
-  background-color: red;
+  background-color: rgb(129, 29, 147);
 }
