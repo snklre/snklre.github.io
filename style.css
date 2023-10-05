@@ -19,26 +19,11 @@ h3 {
 
 body {
   background-color: #d5b6e3e4;
-
-
-        body {
-  
   text-align: center;
-  
-  }
-  
-    * {
 
-      text-align: center;
-    }
-  
-                body {
-    text-align: center;
-    }
-  
-    body {
-      margin: auto;
-      width: 300px;
-      padding: 50px;
-      font-family: 'Lexend Deca', sans-serif;
+body {
+    margin: auto;
+    width: 300px;
+    padding: 50px;
+    font-family: 'Lexend Deca', sans-serif;
     }
