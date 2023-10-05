@@ -15,12 +15,7 @@ h3 {
     font-family: 'Times New Roman', Times, serif;
       font-style: italic;
       font-size: x-large;
-      h6 {
-          color: rgb(4, 4, 51);
-          font-family: 'Times New Roman', Times, serif;
-          font-style: italic;
-}
-
+    
 body {
   background-color: #fdfdfde4;
   text-align: center;
