@@ -1,7 +1,15 @@
+body {
+  background-color: #fdfdfde4;
+  text-align: center;
+  margin: auto;
+  width: 600px;
+  padding: 50px;
+  font-family: 'Lexend Deca', sans-serif;
+}
 h1 {
-  color: rgb(0, 4, 8);
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 800px;
+    color: rgb(0, 4, 8);
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 800px;
       font-weight: 800;
 }
 
@@ -17,13 +25,6 @@ h3 {
   font-weight: 300;
 }
 
-body {
-  background-color: #fdfdfde4;
-  text-align: center;
-    margin: auto;
-    width: 600px;
-      padding: 50px;
-      font-family: 'Lexend Deca', sans-serif;
-    }
+
 
   
