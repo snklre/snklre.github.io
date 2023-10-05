@@ -12,6 +12,12 @@ h2 {
         font-weight: 300;
 }
 
+h2 {
+  color: rgb(4, 4, 51);
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+  font-weight: 300;
+}
 body {
   background-color: #fdfdfde4;
   text-align: center;
