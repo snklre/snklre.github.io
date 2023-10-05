@@ -16,5 +16,5 @@ body {
   width: fit-content;
   padding: 40px;
   margin: 10vw;
-  background-color: rgb(129, 29, 147);
+  background-color: rgba(129, 29, 147, 0);
 }
