@@ -21,8 +21,8 @@ body {
   background-color: #ffffff;
 }
 .intro-section {
-  height: 300px;
-  width: fit-content;
+  height: 900px;
+    width: auto;
   padding: 40px;
   margin: 10vw;
   background-color: rgba(232, 198, 239, 0.632);
