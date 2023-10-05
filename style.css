@@ -1,8 +1,8 @@
 body {
   background-color: #a072a1f6;
     text-align: center;
-      margin: auto;
-      width: 600px;
+      margin: 200px;
+        width: 400px;
       padding: 50px;
   font-family: 'Lexend Deca', sans-serif;
 }
@@ -23,7 +23,7 @@ h2 {
 h3 {
   color: rgb(4, 4, 51);
   font-family: 'Times New Roman', Times, serif;
-  font-size: 300px
+  font-size: 300px;
 }
 
 
