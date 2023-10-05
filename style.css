@@ -1,15 +1,17 @@
 h1 {
   color: rgb(0, 4, 8);
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  font-style: italic;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 h2 {
   color: rgb(4, 4, 51);
+  font-family: 'Times New Roman', Times, serif;
 }
 
-a {
+h3 {
   color: rgb(4, 4, 51);
+  font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
 }
 
 body {
