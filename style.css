@@ -9,17 +9,12 @@ h2 {
   color: rgb(4, 4, 51);
     font-family: 'Times New Roman', Times, serif;
       font-style: italic;
-  
 }
-
-h3 {
-  color: rgb(4, 4, 51);
-    font-family: 'Times New Roman', Times, serif;
-      font-size: x-large;
     
 body {
   background-color: #fdfdfde4;
   text-align: center;
+}
 
 body {
     margin: auto;
