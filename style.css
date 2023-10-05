@@ -9,13 +9,10 @@ h2 {
       font-style: italic;
         font-weight: 300;
 }
-    
-body {
-  background-color: #fdfdfde4;
-    text-align: center;
-}
 
 body {
+  background-color: #fdfdfde4;
+  text-align: center;
     margin: auto;
       width: 600px;
         padding: 50px;
