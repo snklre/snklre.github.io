@@ -29,4 +29,18 @@ body {
   background-color: rgba(232, 198, 239, 0.632);
 }
 
-
+        body {
+  
+  text-align: center;
+  
+  }
+  
+  /* Styling */
+  
+  body {
+    margin: auto;
+    width: 640px;
+    padding: 50px;
+    font-family: 'Lexend Deca', sans-serif;
+    color: #2E475D;
+  }
