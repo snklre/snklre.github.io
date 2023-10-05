@@ -20,14 +20,6 @@ h3 {
 body {
   background-color: #ffffff;
 
-}
-.intro-section {
-  height: 900px;
-  width: auto;
-  padding: 40px;
-  margin: 10vw;
-  background-color: rgba(232, 198, 239, 0.632);
-}
 
         body {
   
@@ -52,5 +44,5 @@ body {
       width: 640px;
       padding: 50px;
       font-family: 'Lexend Deca', sans-serif;
-      color: #2E475D;
+      color: #c3d1de;
     }
