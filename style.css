@@ -2,7 +2,7 @@ body {
   background-color: #7f5d5d;
     text-align: center;
       margin: auto;
-        width: fit-content;
+        width: min-content;
 }
 
 h1 {
