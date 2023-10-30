@@ -1,0 +1,29 @@
+h1 {
+  color: rgb(0, 4, 8);
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 40px;
+}
+
+h2 {
+  color: rgb(4, 4, 51);
+  font-family: 'Times New Roman', Times, serif;
+  font-size: x-large;
+}
+
+h3 {
+  color: rgb(4, 4, 51);
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+  font-size: x-large;
+}
+
+body {
+  background-color: #fdfdfde4;
+  text-align: center;
+
+  body {
+    margin: auto;
+    width: 600px;
+    padding: 50px;
+    font-family: 'Lexend Deca', sans-serif;
+  }
