@@ -1,5 +1,5 @@
 body {
-  background-color: #6c181898;
+  background-color: #7f5d5d;
     text-align: center;
       margin: auto;
         width: fit-content;
@@ -29,5 +29,5 @@ h3 {
       color: rgb(255, 255, 255);
       font-family: 'Times New Roman', Times, serif;
       font-size: 40px;
-      border-width: 5px;
+      border-width: 50px;
     }
