@@ -1,5 +1,5 @@
 body {
-  background-color: #8f232398;
+  background-color: #6c181898;
     text-align: center;
       margin: auto;
         width: fit-content;
@@ -7,20 +7,27 @@ body {
 
 h1 {
   text-align: center;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
       font-family: 'Times New Roman', Times, serif;
-        font-size: large;
+        font-size: 100px;
         font-weight: 800;
 }
 
 h2 {
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
     font-family: 'Times New Roman', Times, serif;
-      font-size: small;
+      font-size: 40px;
 }
 
 h3 {
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
   font-family: 'Times New Roman', Times, serif;
-    font-size: small;
+    font-size: 40px;
+    }
+    
+    p {
+      color: rgb(255, 255, 255);
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 40px;
+      border-width: 5px;
     }
