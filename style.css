@@ -1,3 +1,10 @@
+h1 {
+  text-align: left;
+    color: rgb(255, 255, 255);
+      font-family: 'Courier New', Courier, monospace
+        font-size: 40px;
+        font-weight: 100;
+
 body {
   background-color: #100f10;
     text-align: left;
@@ -7,12 +14,7 @@ body {
       margin-bottom: 10px;
       }
 
-h1 {
-  text-align: left;
-    color: rgb(255, 255, 255);
-      font-family: 'Courier New', Courier, monospace
-        font-size: 40px;
-        font-weight: 100;
+
 }
 
 h2 {
