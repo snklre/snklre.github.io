@@ -1,5 +1,5 @@
 body {
-  background-color: #1a191b;
+  background-color: #1f1627;
     text-align: justify;
       margin: auto;
         width: fit-content;
@@ -15,8 +15,8 @@ h1 {
 
 h2 {
   text-align: left;
-  color: rgb(255, 255, 255);
-    font-family: 'Courier New', Courier, monospace;
+  color: rgb(201, 161, 161);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
       font-size: 40px;
 }
 
