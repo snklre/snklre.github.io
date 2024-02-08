@@ -8,26 +8,26 @@ body {
 h1 {
   text-align: center;
     color: rgb(255, 255, 255);
-      font-family: 'Times New Roman', Times, serif;
+      font-family: 'Courier New', Courier, monospace
         font-size: 100px;
         font-weight: 800;
 }
 
 h2 {
   color: rgb(255, 255, 255);
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Courier New', Courier, monospace;
       font-size: 40px;
 }
 
 h3 {
   color: rgb(255, 255, 255);
-  font-family: 'Times New Roman', Times, serif;
+  font-family: 'Courier New', Courier, monospace;
     font-size: 40px;
     }
     
     p {
       color: rgb(255, 255, 255);
-      font-family: 'Times New Roman', Times, serif;
+      font-family: 'Courier New', Courier, monospace;
       font-size: 40px;
       border-width: 50px;
     }
