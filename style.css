@@ -1,6 +1,6 @@
 body {
-  background-color: #1f1627;
-    text-align: left;
+  background-color: #100f10;
+    text-align: center;
       margin-top: 100px;
       margin-left: 100px;
         margin-right: 100px;
@@ -18,7 +18,7 @@ h1 {
 
 h2 {
   text-align: left;
-  color: rgb(201, 161, 161);
+  color: rgb(255, 255, 255);
     font-family: Arial, Helvetica, sans-serif;
       font-size: 20px;
       font-weight: 20;
