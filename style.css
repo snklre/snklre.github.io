@@ -6,7 +6,7 @@ h1 {
   text-align: left;
   color: rgb(255, 255, 255);
   font-family: 'Times New Roman', Times, serif, large;
-    font-weight: 20;
+    font-weight: 3;
     margin-top: 10px;
       margin-left: 200px;
       margin-right: 100px;
@@ -17,7 +17,7 @@ h2 {
   text-align: left;
     color: rgb(255, 255, 255);
       font-family: 'Times New Roman', Times, serif, large;
-        font-weight: 10;
+        font-weight: 5;
         margin-top: 200px;
         margin-left: 200px;
         margin-right: 200px;
@@ -25,9 +25,9 @@ h2 {
 }
 h3 {
   text-align: right;
-    color: rgb(255, 255, 255);
+    color: rgb(237, 229, 229);
       font-family: 'Times New Roman', Times, serif, large;
-        font-weight: 10;
+        font-weight: 5;
       margin-top: 0px;
         margin-left: 200px;
           margin-right: 200px;
