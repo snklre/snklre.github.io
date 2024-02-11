@@ -5,8 +5,8 @@ body {
 h1 {
   text-align: left;
   color: rgb(255, 255, 255);
-  font-family: 'Times New Roman', Times, serif, x-large;
-    font-weight: 10;
+  font-family: 'Times New Roman', Times, serif, large;
+    font-weight: 20;
     margin-top: 10px;
       margin-left: 200px;
       margin-right: 100px;
