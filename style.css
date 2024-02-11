@@ -31,16 +31,16 @@ h3 {
       margin-top: 0px;
         margin-left: 200px;
           margin-right: 200px;
-        margin-bottom: 100px;
+        margin-bottom: 10px;
     }
     
 p {
       color: rgb(255, 255, 255);
       font-family: 'Times New Roman', Times, serif, medium;
         font-weight: 10;
-          margin-top: 100px;
+          margin-top: 10px;
           margin-left: 100px;
           margin-right: 200px;
-          margin-bottom: 100px;
+          margin-bottom: 0px;
 }
     
