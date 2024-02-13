@@ -6,7 +6,7 @@ h1 {
   text-align: left;
   color: rgb(255, 255, 255);
   font-family: 'Times New Roman', Times, serif, large;
-    font-weight: 10;
+    font-weight: 1;
     margin-top: 10px;
       margin-left: 200px;
       margin-right: 100px;
@@ -17,7 +17,7 @@ h2 {
   text-align: left;
     color: rgb(255, 255, 255);
       font-family: 'Times New Roman', Times, serif, large;
-        font-weight: 10;
+        font-weight: 1;
         margin-top: 10px;
         margin-left: 200px;
         margin-right: 200px;
@@ -27,7 +27,7 @@ h3 {
   text-align: left;
     color: rgb(255, 255, 255);
     font-family: 'Times New Roman', Times, serif, large;
-    font-weight: 10;
+    font-weight: 1;
     margin-top: 0px;
     margin-left: 200px;
     margin-right: 200px;
@@ -38,7 +38,7 @@ h3 {
       text-align: right;
         color: rgb(237, 229, 229);
         font-family: 'Times New Roman', Times, serif, large;
-        font-weight: 10;
+        font-weight: 1;
         margin-top: 0px;
         margin-left: 200px;
         margin-right: 200px;
@@ -48,7 +48,7 @@ a {
   text-align: right;
     color: rgb(237, 229, 229);
     font-family: 'Times New Roman', Times, serif, large;
-    font-weight: 10;
+    font-weight: 1;
     margin-top: 0px;
     margin-left: 200px;
     margin-right: 200px;
