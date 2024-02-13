@@ -1,5 +1,5 @@
 body {
-  background-color: #000000;
+  background-color: #1c1728;
 }
 
 h1 {
@@ -25,7 +25,7 @@ h2 {
 }
 h3 {
   text-align: left;
-    color: rgb(237, 229, 229);
+    color: rgb(255, 255, 255);
     font-family: 'Times New Roman', Times, serif, large;
     font-weight: 10;
     margin-top: 0px;
