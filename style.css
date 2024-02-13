@@ -44,7 +44,10 @@ h3 {
         margin-right: 200px;
         margin-bottom: 10px;
       }
-    
+
+    slmail {
+      color: rgb(237, 229, 229);
+    }
 p {
       color: rgb(255, 255, 255);
       font-family: 'Times New Roman', Times, serif, medium;
