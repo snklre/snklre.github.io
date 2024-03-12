@@ -36,17 +36,15 @@ body {
       color: rgb(255, 255, 255);
         font-family: 'Times New Roman', Times, serif;
           font-size: large;
-        font-weight: 1rem;
         padding-left: 1rem;
           padding-right: 3rem;
           padding-top: 2rem;
 }
-href {
+a href {
   text-align: left;
   color: rgb(255, 255, 255);
   font-family: 'Times New Roman', Times, serif;
   font-size: large;
-  font-weight: 1rem;
   padding-left: 1rem;
   padding-right: 3rem;
   padding-top: 2rem;
