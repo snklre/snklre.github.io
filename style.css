@@ -7,10 +7,10 @@ h1 {
   color: rgb(255, 255, 255);
   font-family: 'Times New Roman', Times, serif, large;
     font-weight: 1;
-    margin-top: 100px;
-      margin-left: 100px;
-      margin-right: 100px;
-      margin-bottom: 10px;
+    padding-left: 3rem;
+      padding-right: 3rem;
+      padding-top: 3rem;
+      padding bottom: 3rem;
 }
 
 h2 {
@@ -18,20 +18,20 @@ h2 {
     color: rgb(255, 255, 255);
       font-family: 'Times New Roman', Times, serif, large;
         font-weight: 1;
-        margin-top: 10px;
-        margin-left: 100px;
-        margin-right: 200px;
-        margin-bottom: 300px;
+        padding-left: 3rem;
+          padding-right: 3rem;
+          padding-top: 3rem;
+          padding bottom: 3rem;
 }
 h3 {
   text-align: left;
     color: rgb(255, 255, 255);
     font-family: 'Times New Roman', Times, serif, large;
     font-weight: 1;
-    margin-top: 0px;
-    margin-left: 100px;
-    margin-right: 200px;
-    margin-bottom: 10px;
+    padding-left: 3rem;
+      padding-right: 3rem;
+      padding-top: 3rem;
+      padding bottom: 3rem;
   }
   
 body {
@@ -40,15 +40,18 @@ body {
         font-family: 'Times New Roman', Times, serif;
           font-size: large;
         font-weight: 1;
-        padding: 3rem;
+        padding-left: 3rem;
+          padding-right: 3rem;
+          padding-top: 3rem;
+          padding bottom: 3rem;
         }
 a {
   text-align: right;
     color: rgb(255, 255, 255);
     font-family: 'Times New Roman', Times, serif, large;
     font-weight: 1;
-    margin-top: 0px;
-    margin-left: 0px;
-    margin-right: 200px;
-    margin-bottom: 10px;
+    padding-left: 3rem;
+      padding-right: 3rem;
+      padding-top: 3rem;
+      padding bottom: 3rem;
 }
