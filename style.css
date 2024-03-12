@@ -26,7 +26,7 @@ h3 {
     color: rgb(255, 255, 255);
     font-family: 'Times New Roman', Times, serif, large;
     font-weight: 1;
-    padding-left: 1rem;
+    padding-left: 0rem;
       padding-right: 3rem;
       padding-top: 2rem;
   }
@@ -40,13 +40,4 @@ body {
         padding-left: 9rem;
           padding-right: 3rem;
           padding-top: 2rem;
-        }
-a {
-  text-align: right;
-    color: rgb(255, 255, 255);
-    font-family: 'Times New Roman', Times, serif, large;
-    font-weight: 1;
-    padding-left: 3rem;
-      padding-right: 3rem;
-      padding-top: 3rem;
 }
