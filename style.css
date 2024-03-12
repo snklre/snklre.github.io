@@ -36,9 +36,9 @@ body {
       color: rgb(255, 255, 255);
         font-family: 'Times New Roman', Times, serif;
           font-size: large;
-        padding-left: 1rem;
+        padding-left: 10rem;
           padding-right: 3rem;
-          padding-top: 2rem;
+          padding-top: 10rem;
 }
 a href {
   text-align: left;
