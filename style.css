@@ -37,7 +37,8 @@ h3 {
 body {
       text-align: left;
       color: rgb(255, 255, 255);
-        font-family: 'Times New Roman', Times, serif, large;
+        font-family: 'Times New Roman', Times, serif;
+          font-size: large;
         font-weight: 1;
         padding: 3rem;
         }
