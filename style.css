@@ -7,9 +7,9 @@ h1 {
   color: rgb(255, 255, 255);
   font-family: 'Times New Roman', Times, serif, large;
     font-weight: 1;
-    padding-left: 0rem;
+    padding-left: .25rem;
       padding-right: .25rem;
-      padding-top: 1rem;
+      padding-top: .5rem;
 }
 
 h2 {
@@ -38,7 +38,7 @@ body {
           font-size: x-large;
         padding-left: 4rem;
           padding-right: .25rem;
-          padding-top: 10rem;
+          padding-top: 1rem;
 }
 
 a:link {
