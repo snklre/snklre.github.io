@@ -37,7 +37,7 @@ body {
         font-family: 'Times New Roman', Times, serif;
           font-size: large;
         font-weight: 1;
-        padding-left: 3rem;
+        padding-left: 1rem;
           padding-right: 3rem;
           padding-top: 2rem;
 }
@@ -47,7 +47,7 @@ a {
   font-family: 'Times New Roman', Times, serif;
   font-size: large;
   font-weight: 1;
-  padding-left: 9rem;
+  padding-left: 1rem;
   padding-right: 3rem;
   padding-top: 2rem;
 }
