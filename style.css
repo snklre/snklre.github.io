@@ -48,8 +48,10 @@ body {
 }
 
 a:link {
+  font-size: 18px;
   color: rgb(255, 255, 255, 0.75);
 }
 a:visited {
+  font-size: 18px;
   color: rgb(255, 255, 255, 0.75)
 }
